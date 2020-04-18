@@ -118,7 +118,7 @@ social_profile <- list(
 
 My favorite R package for taking JSON text and turning it into an R object is `jsonlite`. It has very few dependencies, is fast, and is reasonably easy to use.
 
-## HTTTP in R with `httr`
+## HTTP in R with `httr`
 
 My favorite R package for making HTTP requests is `httr`. You can learn more about it [in the vignetttets](https://cran.r-project.org/web/packages/httr/index.html).
 
